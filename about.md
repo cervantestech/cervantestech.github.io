@@ -95,10 +95,11 @@ environments.
 # Lecturer & Speaker at
 
 ## Professor / Mentorship:
+- Collaboratoin in creation of new Master Programme about cybersecurity - **Universidad Politécnica Nebrija** (2023)
 - Lecturer at IT Supply Chain Risk Management course covering "Innovation" topic - **ISMS Forum** (2022 Two editions)
 - Mentor at Cybersecurity bootcamp covering "Cloud Security" - **Upgrade Hub** (2019)
 - Collaboration in Cybersecurity awarness training - **Sagardoy Business School** (2021)
-- Collaboratoin in creation of new Master Programme about cybersecurity - **Universidad Politécnica Nebrija** (2023)
+
 
 ## Talks:
 - CiberTodos2022 - **ISACA** (2022)
