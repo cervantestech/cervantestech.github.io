@@ -77,6 +77,7 @@ En 2023 he sido sido reconocido como uno de los [**"TOP50 CISOs to Watch"**](htt
 
 <br>
 <br>
+<br>
 
 - Arquitectura de Seguridad de TI en una amplia variedad de proyectos incluyendo banca, farmacéutica, retail...
 - Diseño de Arquitectura de Identidad Federada: oAuth / OpenID Connect
