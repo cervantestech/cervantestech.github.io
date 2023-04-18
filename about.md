@@ -24,7 +24,7 @@ In conclusion, I am passionate about my work in cybersecurity and am always eage
 
 ## 10/2021 - today: Fintonic - Chief Information Security Officer
 
-<img align="left" src="/assets/img/fintonic.png">
+<figure><img align="left" src="/assets/img/fintonic.png"></figure>
 
 - Head of cybersecurity including Governance, SecOps and Secure software architectures design for
 complex cloud environments
@@ -33,7 +33,7 @@ complex cloud environments
 
 ## 05/2019 - 10/2021: Repsol - IT Security Architect & Head of Cybersecurity Hub
 
-<img align="left" src="/assets/img/repsol.png">
+<figure><img align="left" src="/assets/img/repsol.png"></figure>
 
 - Head of Cybersecurity Hub: ITSecurity Architecture Innovation team
 - IT Architecture design and validation
@@ -42,7 +42,7 @@ complex cloud environments
 
 ## 08/2018 - 05/2019: Orange Bank - Responsible of IT Security
 
-<img align="left" src="/assets/img/ob.png">
+<figure><img align="left" src="/assets/img/ob.png"></figure>
 
 - Public Cloud banking security architecture design (Access, PAM, Third party integrations...) from scratch
 - Application Security at SDLC (Microservices environment) - SAST, DAST, Dependency Analysis
@@ -53,7 +53,7 @@ complex cloud environments
 
 ## 03/2017 - 08/2018: Accenture - Security Consultant
 
-<img align="left" src="/assets/img/accenture.png">
+<figure><img align="left" src="/assets/img/accenture.png"></figure>
 
 - Security Architect focused on technological Innovation of legacy platforms using Microservices
 - Security Consultant focused on Application Security:
@@ -63,7 +63,7 @@ complex cloud environments
 
 ## 01/2015 - 03/2017: IBM - IT Architect (Security)
 
-<img align="left" src="/assets/img/ibm.png">
+<figure><img align="left" src="/assets/img/ibm.png"></figure>
 
 - IT Security Architecture in a wide variety of projects including banking, pharma, retail...
 - Federated Identity Architecture Design: oAuth / OpenID Connect
@@ -71,7 +71,7 @@ complex cloud environments
 
 ## 07/2014 - 01/2015: Telefónica - IT Specialist - Movilforum
 
-<img align="left" src="/assets/img/telefonica.png">
+<figure><img align="left" src="/assets/img/telefonica.png"></figure>
 
 - Working with the software lab of movilforum as Security Specialist, identifiying potential partners
 among start-ups 
