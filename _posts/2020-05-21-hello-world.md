@@ -1,5 +1,5 @@
 ---
-title: Hello-World from cervantes.pro 
+title: Hello-world from cervantes.pro 
 layout: post
 categories: [HelloWorld]
 image: /assets/img/buho.jpg
