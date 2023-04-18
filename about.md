@@ -23,27 +23,29 @@ In conclusion, I am passionate about my work in cybersecurity and am always eage
 # Career
 
 ## 10/2021 - today: Fintonic - Chief Information Security Officer
-\s\s
-<div><img align="left" src="/assets/img/fintonic.png"></div>
-\s\s\
+
+  
+<div><img align="left" src="/assets/img/fintonic.png"></div>  
+  
+  
 - Head of cybersecurity including Governance, SecOps and Secure software architectures design for
 complex cloud environments
 - Cyberrisk and Cyber-intellingence management
 - Certification of PCI-DSS
 
 ## 05/2019 - 10/2021: Repsol - IT Security Architect & Head of Cybersecurity Hub
-
+  
 <figure><img align="left" src="/assets/img/repsol.png"></figure>
-
+  
 - Head of Cybersecurity Hub: ITSecurity Architecture Innovation team
 - IT Architecture design and validation
 - Cloud Security (CSPM, CWPP, PAM, Monitoring)
 - DevSecOps Architecture design (SAST, DAST, SCA, IaC Analysis, Container security)
 
 ## 08/2018 - 05/2019: Orange Bank - Responsible of IT Security
-
+  
 <figure><img align="left" src="/assets/img/ob.png"></figure>
-
+  
 - Public Cloud banking security architecture design (Access, PAM, Third party integrations...) from scratch
 - Application Security at SDLC (Microservices environment) - SAST, DAST, Dependency Analysis
 - RASP
@@ -52,9 +54,9 @@ complex cloud environments
 - IT Support for Fraud Prevention
 
 ## 03/2017 - 08/2018: Accenture - Security Consultant
-
+  
 <figure><img align="left" src="/assets/img/accenture.png"></figure>
-
+  
 - Security Architect focused on technological Innovation of legacy platforms using Microservices
 - Security Consultant focused on Application Security:
 - SAST - Fortify - Custom rules edition
