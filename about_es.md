@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: CV Español
 ---
 
 # [Enrique Cervantes CV [ES]](https://www.linkedin.com/in/enriquecervantes/)
@@ -9,14 +9,14 @@ title: About
 
 # About
 
-Soy un apasionado de la ciberseguridad con una trayectoria profesional que ha pasado por corporaciones multinacionales como Telefónica, IBM, Accenture, Orange y Repsol. A lo largo de mi carrera, he ayudado a empresas de diversas industrias, incluyendo banca, retail, telecomunicaciones, farmacéuticas o energéticas, a mejorar su postura de ciberseguridad. He logrado esto definiendo arquitecturas seguras para la prevención y utilizando mi experiencia para detectar y solucionar problemas de seguridad.
-Actualmente, me centro en la gestión de la ciberseguridad en fintech en Fintonic, una de las mayores startups de España. Este papel presenta un desafío significativo, pero es, a la vez, muy enriquecedor profesionalmente.
+Soy un apasionado de la ciberseguridad con una trayectoria profesional que ha pasado por corporaciones multinacionales como **Telefónica, IBM, Accenture, Orange y Repsol**. A lo largo de mi carrera, he ayudado a empresas de diversas industrias, incluyendo banca, retail, telecomunicaciones, farmacéuticas o energéticas, a mejorar su postura de ciberseguridad. He logrado esto definiendo arquitecturas seguras para la prevención y utilizando mi experiencia para detectar y solucionar problemas de seguridad.
+Actualmente, me centro en la gestión de la ciberseguridad en fintech en **Fintonic**, una de las mayores startups de España. Este papel presenta un desafío significativo, pero es, a la vez, muy enriquecedor profesionalmente.
 
 En el lado técnico, me especializo en llevar la seguridad al ciclo de vida del desarrollo de software (SDLC), diseñando arquitecturas de autenticación y autorización y administrando la ciberseguridad en entornos complejos multi-cloud, basados en contenedores, con un enfoque en la tecnología de seguridad nativa cloud.
 
 Además de la experiencia técnica, tengo buenas habilidades de comunicación y liderazgo, lo que le permite comunicar de manera efectiva problemas de ciberseguridad en todos los niveles de las compañías, desde a ejecutivos o comité hasta desarrolladores. 
 
-He sido sido reconocido como uno de los "TOP50 CISOs to Watch" a nivel mundial por la empresa de ciberseguridad Lacework.
+En 2023 he sido sido reconocido como uno de los [**"TOP50 CISOs to Watch"**](https://www.lacework.com/blog/50-cisos-to-watch/) a nivel mundial por la empresa de ciberseguridad Lacework.
 
 
 # Career
@@ -88,7 +88,7 @@ Consultorías de ciberseguridad y hacking ético
 - Instalación de herramientas SCADA: Siemens y Schneider Electric.
 
 
-# Lecturer & Speaker at
+# Profesor & Speaker
 
 ## Professor / Mentorship:
 - Colaboración en diseño de currículum de nuevo máster de ciberseguridad - **Universidad Politécnica Nebrija** (2023)
