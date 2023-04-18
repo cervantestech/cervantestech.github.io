@@ -86,8 +86,6 @@ complex cloud environments
 
 ![IBM](/assets/img/ibm.png#left)
 
-
-
 <br>
 <br>
 
