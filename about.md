@@ -26,6 +26,8 @@ In conclusion, I am passionate about my work in cybersecurity and am always eage
 
 ![Fintonic](/assets/img/fintonic.png#left)
 
+<br>
+
 - Head of cybersecurity including Governance, SecOps and Secure software architectures design for
 complex cloud environments
 - Cyberrisk and Cyber-intellingence management
