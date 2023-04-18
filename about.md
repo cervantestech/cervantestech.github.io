@@ -16,7 +16,7 @@ On the technical side, I specialize in bringing security to Software Development
 
 In addition to my technical expertise, I possess strong communication and leadership skills, allowing me to effectively communicate cybersecurity issues to C-level executives and developers alike. I am experienced in compliance and management, ensuring that all stakeholders are informed and up-to-date.
 
-I am honored to have been recognized as one of the ![**TOP50 CISOs to watch in 2023 worldwide**](https://www.lacework.com/blog/50-cisos-to-watch/) by the cybersecurity company, **Lacework**.
+I am honored to have been recognized as one of the [**TOP50 CISOs to watch in 2023 worldwide**](https://www.lacework.com/blog/50-cisos-to-watch/) by the cybersecurity company, **Lacework**.
 
 In conclusion, I am passionate about my work in cybersecurity and am always eager to learn and grow in this ever-changing field.
 
