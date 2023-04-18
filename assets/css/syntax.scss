@@ -246,21 +246,17 @@ figure.highlight{
   float: left;
 }
 
-img[alt$=">"] {
-  float: right;
-}
-
-img[alt$="<"] {
+img[src*='#left'] {
   float: left;
 }
-
-img[alt$="><"] {
-  display: block;
-  max-width: 100%;
-  height: auto;
-  margin: auto;
-  float: none!important;
+img[src*='#right'] {
+  float: right;
 }
+img[src*='#center'] {
+  display: block;
+  margin: auto;
+}
+
 
 figure.highlight pre code[data-lang]::before, div.highlight pre code[data-lang]::before{
   content: attr(data-lang);
