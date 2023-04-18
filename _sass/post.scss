@@ -23,13 +23,25 @@ img{
 
 img[src*='#left'] {
     float: left;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    -khtml-border-radius: 0px;
+    border-radius: 0px;
   }
   img[src*='#right'] {
     float: right;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    -khtml-border-radius: 0px;
+    border-radius: 0px;
   }
   img[src*='#center'] {
     display: block;
     margin: auto;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    -khtml-border-radius: 0px;
+    border-radius: 0px;
   }
 
 .post-container{
