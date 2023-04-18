@@ -2,8 +2,8 @@
 title: Estreno de cervantes.pro 
 layout: post
 categories: [HelloWorld]
-image: /assets/img/logo.jpg
-description: "Welcome to YAMT - Yet Another Minimal Theme."
+image: /assets/img/buho.jpg
+description: "Welcome to Enrique Cervantes' personal webpage"
 ---
 
 I am a passionate senior cybersecurity professional with a proven track record of working with multinational corporations such as Telefónica, IBM, Accenture, Orange, and Repsol. Over the course of my career, I have assisted companies from various industries, including banking, retail, telecommunications, pharmaceuticals, and oil & gas, in improving their cybersecurity posture. I have achieved this by defining secure architectures for prevention and utilizing my experience to detect and solve security issues.
