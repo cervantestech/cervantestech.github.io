@@ -23,11 +23,19 @@ En 2023 he sido sido reconocido como uno de los [**"TOP50 CISOs to Watch"**](htt
 
 ## 10/2021 - today: Fintonic - Chief Information Security Officer
 
+![Fintonic](/assets/img/fintonic.png#left)
+
+<br>
+
 - Jefe de ciberseguridad, incluyendo gobernanza, SecOps y diseño de arquitecturas de software seguro para entornos de nube complejos
 - Gestión de ciberriesgos y ciberinteligencia
 - Certificación de PCI-DSS
 
 ## 05/2019 - 10/2021: Repsol - IT Security Architect & Head of Cybersecurity Hub
+
+![Repsol](/assets/img/repsol.png#left)
+
+<br>
 
 - Head of Cybersecurity Hub: Equipo de innovación de arquitectura de TI de seguridad
 - Diseño y validación de arquitectura de TI
@@ -35,6 +43,10 @@ En 2023 he sido sido reconocido como uno de los [**"TOP50 CISOs to Watch"**](htt
 - Diseño de arquitectura DevSecOps (SAST, DAST, SCA, análisis de IaC, seguridad de contenedores)
 
 ## 08/2018 - 05/2019: Orange Bank - Responsible of IT Security
+
+![Orange Bank](/assets/img/ob.png#left)
+
+<br>
 
 - Diseño de arquitectura de seguridad **desde cero**, basada en Public Cloud (Access, PAM, Third party integrations...)
 - Seguridad en SDLC (Microservices environment) - SAST, DAST, Dependency Analysis
@@ -45,6 +57,10 @@ En 2023 he sido sido reconocido como uno de los [**"TOP50 CISOs to Watch"**](htt
 
 ## 03/2017 - 08/2018: Accenture - Security Consultant
 
+![Accenture](/assets/img/accenture.png#left)
+
+<br>
+
 - Seguridad arquitectónica enfocada en la innovación tecnológica de plataformas legacy mediante Microservicios
 - Consultor de seguridad enfocado en la seguridad de aplicaciones:
 - SAST - Fortify - Edición de reglas personalizadas
@@ -53,11 +69,19 @@ En 2023 he sido sido reconocido como uno de los [**"TOP50 CISOs to Watch"**](htt
 
 ## 01/2015 - 03/2017: IBM - IT Architect (Security)
 
+![IBM](/assets/img/ibm.png#left)
+
+<br>
+
 - Arquitectura de Seguridad de TI en una amplia variedad de proyectos incluyendo banca, farmacéutica, retail...
 - Diseño de Arquitectura de Identidad Federada: oAuth / OpenID Connect
 - Gestión de Proyectos
 
 ## 07/2014 - 01/2015: Telefónica - IT Specialist - Movilforum
+
+![Telefonica](/assets/img/telefonica.png#left)
+
+<br>
 
 - Laboratorio de software de Movilforum como Especialista en Seguridad, identificando posibles partners estratégicos entre las startups.
 
