@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-# [Enrique Cervantes CV :spain:](https://www.linkedin.com/in/enriquecervantes/)
+# [Enrique Cervantes CV [ES]](https://www.linkedin.com/in/enriquecervantes/)
 
 ![Enrique Cervantes](/assets/img/fotoAbout.png)
 
