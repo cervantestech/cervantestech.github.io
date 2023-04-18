@@ -242,6 +242,22 @@ figure.highlight{
   position: relative;
 }
 
+img[alt$=">"] {
+  float: right;
+}
+
+img[alt$="<"] {
+  float: left;
+}
+
+img[alt$="><"] {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  float: none!important;
+}
+
 figure.highlight pre code[data-lang]::before, div.highlight pre code[data-lang]::before{
   content: attr(data-lang);
   text-transform: uppercase;
