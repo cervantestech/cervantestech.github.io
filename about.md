@@ -1,10 +1,11 @@
 ---
 layout: default
 title: About
-image: /assets/img/fotoAbout.png
 ---
 
 # [Enrique Cervantes BIO](https://www.linkedin.com/in/enriquecervantes/)
+
+![A test image](/assets/img/fotoAbout.png)
 
 # About
 
