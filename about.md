@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-# [Enrique Cervantes BIO](https://www.linkedin.com/in/enriquecervantes/)
+# [Enrique Cervantes CV :england:](https://www.linkedin.com/in/enriquecervantes/)
 
 ![Enrique Cervantes](/assets/img/fotoAbout.png)
 

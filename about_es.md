@@ -3,102 +3,98 @@ layout: default
 title: About
 ---
 
-# [Enrique Cervantes BIO](https://www.linkedin.com/in/enriquecervantes/)
+# [Enrique Cervantes CV :spain:](https://www.linkedin.com/in/enriquecervantes/)
 
 ![Enrique Cervantes](/assets/img/fotoAbout.png)
 
 # About
 
-I am a passionate senior cybersecurity professional with a proven track record of working with multinational corporations such as **Telefónica, IBM, Accenture, Orange, and Repsol**. Over the course of my career, I have assisted companies from various industries, including banking, retail, telecommunications, pharmaceuticals, and oil & gas, in improving their cybersecurity posture. I have achieved this by defining secure architectures for prevention and utilizing my experience to detect and solve security issues.
-Currently, I am focused on managing cybersecurity in fintech at **Fintonic**, one of the largest startups in Spain. This role presents a significant challenge, but I am excited to tackle it head-on.
+Soy un apasionado de la ciberseguridad con una trayectoria profesional que ha pasado por corporaciones multinacionales como Telefónica, IBM, Accenture, Orange y Repsol. A lo largo de mi carrera, he ayudado a empresas de diversas industrias, incluyendo banca, retail, telecomunicaciones, farmacéuticas o energéticas, a mejorar su postura de ciberseguridad. He logrado esto definiendo arquitecturas seguras para la prevención y utilizando mi experiencia para detectar y solucionar problemas de seguridad.
+Actualmente, me centro en la gestión de la ciberseguridad en fintech en Fintonic, una de las mayores startups de España. Este papel presenta un desafío significativo, pero es, a la vez, muy enriquecedor profesionalmente.
 
-On the technical side, I specialize in bringing security to Software Development Lifecycle (SDLC), designing authentication and authorization software architectures, and managing cybersecurity in complex multi-cloud environments, including container-based systems, with a focus on cloud-native security technology.
+En el lado técnico, me especializo en llevar la seguridad al ciclo de vida del desarrollo de software (SDLC), diseñando arquitecturas de autenticación y autorización y administrando la ciberseguridad en entornos complejos multi-cloud, basados en contenedores, con un enfoque en la tecnología de seguridad nativa cloud.
 
-In addition to my technical expertise, I possess strong communication and leadership skills, allowing me to effectively communicate cybersecurity issues to C-level executives and developers alike. I am experienced in compliance and management, ensuring that all stakeholders are informed and up-to-date.
+Además de la experiencia técnica, tengo buenas habilidades de comunicación y liderazgo, lo que le permite comunicar de manera efectiva problemas de ciberseguridad en todos los niveles de las compañías, desde a ejecutivos o comité hasta desarrolladores. 
 
-I am honored to have been recognized as one of the **TOP50 CISOs to watch in 2023 worldwide** by the cybersecurity company, **Lacework**.
+He sido sido reconocido como uno de los "TOP50 CISOs to Watch" a nivel mundial por la empresa de ciberseguridad Lacework.
 
-In conclusion, I am passionate about my work in cybersecurity and am always eager to learn and grow in this ever-changing field.
 
 # Career
 
 ## 10/2021 - today: Fintonic - Chief Information Security Officer
 
-- Head of cybersecurity including Governance, SecOps and Secure software architectures design for
-complex cloud environments
-- Cyberrisk and Cyber-intellingence management
-- Certification of PCI-DSS
+- Jefe de ciberseguridad, incluyendo gobernanza, SecOps y diseño de arquitecturas de software seguro para entornos de nube complejos
+- Gestión de ciberriesgos y ciberinteligencia
+- Certificación de PCI-DSS
 
 ## 05/2019 - 10/2021: Repsol - IT Security Architect & Head of Cybersecurity Hub
 
-- Head of Cybersecurity Hub: ITSecurity Architecture Innovation team
-- IT Architecture design and validation
-- Cloud Security (CSPM, CWPP, PAM, Monitoring)
-- DevSecOps Architecture design (SAST, DAST, SCA, IaC Analysis, Container security)
+- Head of Cybersecurity Hub: Equipo de innovación de arquitectura de TI de seguridad
+- Diseño y validación de arquitectura de TI
+- Seguridad en la nube (CSPM, CWPP, PAM, monitoreo)
+- Diseño de arquitectura DevSecOps (SAST, DAST, SCA, análisis de IaC, seguridad de contenedores)
 
 ## 08/2018 - 05/2019: Orange Bank - Responsible of IT Security
 
-- Public Cloud banking security architecture design (Access, PAM, Third party integrations...) from scratch
-- Application Security at SDLC (Microservices environment) - SAST, DAST, Dependency Analysis
+- Diseño de arquitectura de seguridad **desde cero**, basada en Public Cloud (Access, PAM, Third party integrations...)
+- Seguridad en SDLC (Microservices environment) - SAST, DAST, Dependency Analysis
 - RASP
 - Container security
 - AuthX (OIDC / Oauth2 ) Flow definition & architecture design (PSD2 XS2AFramework)
-- IT Support for Fraud Prevention
+- Soporte IT para prevención de fraude
 
 ## 03/2017 - 08/2018: Accenture - Security Consultant
 
-- Security Architect focused on technological Innovation of legacy platforms using Microservices
-- Security Consultant focused on Application Security:
-- SAST - Fortify - Custom rules edition
-- Integration of security controls on SDLC pipelines
+- Seguridad arquitectónica enfocada en la innovación tecnológica de plataformas legacy mediante Microservicios
+- Consultor de seguridad enfocado en la seguridad de aplicaciones:
+- SAST - Fortify - Edición de reglas personalizadas
+- Integración de controles de seguridad en tuberías SDLC
 - Runtime Application Self Protection: Waratek, Contrast Security, Hdiv
 
 ## 01/2015 - 03/2017: IBM - IT Architect (Security)
 
-- IT Security Architecture in a wide variety of projects including banking, pharma, retail...
-- Federated Identity Architecture Design: oAuth / OpenID Connect
-- Project Managment
+- Arquitectura de Seguridad de TI en una amplia variedad de proyectos incluyendo banca, farmacéutica, retail...
+- Diseño de Arquitectura de Identidad Federada: oAuth / OpenID Connect
+- Gestión de Proyectos
 
 ## 07/2014 - 01/2015: Telefónica - IT Specialist - Movilforum
 
-- Working with the software lab of movilforum as Security Specialist, identifiying potential partners
-among start-ups 
+- Laboratorio de software de Movilforum como Especialista en Seguridad, identificando posibles partners estratégicos entre las startups.
 
-## 01/2014 - 07/2014: Freelance - Developer & Security
 
-- Main projects as freelance:
-Android application integrated with Django Web Application and VOIP infrastructures.
-Infosec Consulting
+## 01/2014 - 07/2014: Freelance - Desarrollador & Security
+
+- Principales proyectos como Freelance:
+Aplicación Android integrada con una aplicación web Django Web Application e Infraestructuras de VOIP
+Consultorías de ciberseguridad y hacking ético
 
 ## 06/2013 - 12/2013: Maeco Beijing - IT Manager
 
-- Installation and hardening of a web server.
-- Design and development of a database in SAP format for personal and tools management.
-- Coordination of employees dedicated to networking and hardware support.
+- Instalación y bastionado de servidor web.
+- Diseño desarrollo de plataformas formativas para la empresa.
+- Gestión de empleados para tareas IT.
 
 ## 09/2012 - 05/2013: Stonework Solutions - Security & I+D
 
-- Monitoring scripts devolopment and integration (Python and Bash)
-- Installation and maintenance of Ossim SIEM tool. Including creation and modification of
-correlation rules and Snort policies.
-- Real-time tools development for Asterisk VoIP switches traffic monitoring (Python)
-- Security pentesting tasks both for internal and external customers.
+- Desarrollo e integración de scripts de monitorización (Python y Bash)
+- Instalación y mantenimiento de la herramienta SIEM de Ossim. Incluyendo la creación y modificación de reglas de correlación y políticas de Snort
+- Desarrollo de herramientas en tiempo real para el monitoreo del tráfico de switches de voz sobre IP Asterisk (Python)
+- Tareas de pentesting de seguridad tanto para clientes internos como externos.
 
 ## 07/2011 - 09/2012: T.E. Pablo Cervantes, S.L. - Industrial Software Developer
 
-- Freelance work in several proyects of the company, including:
-- Design, development, deployment and hardening of web applications for industrial
-environments.
-- Installation of SCADA tools: Siemens and Schneider Electric.
+- Trabajo como freelance en varios proyectos de la empresa, incluyendo:
+- Diseño, desarrollo, implementación y aseguramiento de aplicaciones web para entornos industriales.
+- Instalación de herramientas SCADA: Siemens y Schneider Electric.
 
 
 # Lecturer & Speaker at
 
 ## Professor / Mentorship:
-- Collaboratoin in creation of new Master Programme about cybersecurity - **Universidad Politécnica Nebrija** (2023)
-- Lecturer at IT Supply Chain Risk Management course covering "Innovation" topic - **ISMS Forum** (2022 Two editions)
-- Mentor at Cybersecurity bootcamp covering "Cloud Security" - **Upgrade Hub** (2019)
-- Collaboration in Cybersecurity awarness training - **Sagardoy Business School** (2021)
+- Colaboración en diseño de currículum de nuevo máster de ciberseguridad - **Universidad Politécnica Nebrija** (2023)
+- Profesor en curso sobre Seguridad en Cadena de Suministro IT cubriendo el tema "Innovación" - **ISMS Forum** (2022 Two editions)
+- Mentor en bootcamp de ciberseguridad, cubriendo el tema "Cloud Security" - **Upgrade Hub** (2019)
+- Colaboración en Security Awareness Training - **Sagardoy Business School** (2021)
 
 
 ## Talks:
