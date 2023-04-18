@@ -24,7 +24,7 @@ In conclusion, I am passionate about my work in cybersecurity and am always eage
 
 ## 10/2021 - today: Fintonic - Chief Information Security Officer
 
-![Fintonic alt <](/assets/img/fintonic.png){.callout}
+![Fintonic](/assets/img/fintonic.png#left)
 
 - Head of cybersecurity including Governance, SecOps and Secure software architectures design for
 complex cloud environments
@@ -32,14 +32,14 @@ complex cloud environments
 - Certification of PCI-DSS
 
 ## 05/2019 - 10/2021: Repsol - IT Security Architect & Head of Cybersecurity Hub
-![Repsol alt <](/assets/img/repsol.png)
+![Repsol](/assets/img/repsol.png#left))
 - Head of Cybersecurity Hub: ITSecurity Architecture Innovation team
 - IT Architecture design and validation
 - Cloud Security (CSPM, CWPP, PAM, Monitoring)
 - DevSecOps Architecture design (SAST, DAST, SCA, IaC Analysis, Container security)
 
 ## 08/2018 - 05/2019: Orange Bank - Responsible of IT Security
-![Orange Bank alt <](/assets/img/ob.png)
+![Orange Bank](/assets/img/ob.png#left))
 - Public Cloud banking security architecture design (Access, PAM, Third party integrations...) from scratch
 - Application Security at SDLC (Microservices environment) - SAST, DAST, Dependency Analysis
 - RASP
@@ -48,7 +48,7 @@ complex cloud environments
 - IT Support for Fraud Prevention
 
 ## 03/2017 - 08/2018: Accenture - Security Consultant
-![Accenture alt <](/assets/img/accenture.png)
+![Accenture](/assets/img/accenture.png#left))
 - Security Architect focused on technological Innovation of legacy platforms using Microservices
 - Security Consultant focused on Application Security:
 - SAST - Fortify - Custom rules edition
@@ -56,13 +56,13 @@ complex cloud environments
 - Runtime Application Self Protection: Waratek, Contrast Security, Hdiv
 
 ## 01/2015 - 03/2017: IBM - IT Architect (Security)
-![IBM alt <](/assets/img/ibm.png)
+![IBM](/assets/img/ibm.png#left))
 - IT Security Architecture in a wide variety of projects including banking, pharma, retail...
 - Federated Identity Architecture Design: oAuth / OpenID Connect
 - Project Managment
 
 ## 07/2014 - 01/2015: Telefónica - IT Specialist - Movilforum
-![Telefonica alt <](/assets/img/telefonica.png)
+![Telefonica](/assets/img/telefonica.png#left))
 - Working with the software lab of movilforum as Security Specialist, identifiying potential partners
 among start-ups 
 
