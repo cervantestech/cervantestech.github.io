@@ -32,14 +32,14 @@ complex cloud environments
 - Certification of PCI-DSS
 
 ## 05/2019 - 10/2021: Repsol - IT Security Architect & Head of Cybersecurity Hub
-![Repsol](/assets/img/repsol.png#left))
+![Repsol](/assets/img/repsol.png#left)
 - Head of Cybersecurity Hub: ITSecurity Architecture Innovation team
 - IT Architecture design and validation
 - Cloud Security (CSPM, CWPP, PAM, Monitoring)
 - DevSecOps Architecture design (SAST, DAST, SCA, IaC Analysis, Container security)
 
 ## 08/2018 - 05/2019: Orange Bank - Responsible of IT Security
-![Orange Bank](/assets/img/ob.png#left))
+![Orange Bank](/assets/img/ob.png#left)
 - Public Cloud banking security architecture design (Access, PAM, Third party integrations...) from scratch
 - Application Security at SDLC (Microservices environment) - SAST, DAST, Dependency Analysis
 - RASP
@@ -48,7 +48,7 @@ complex cloud environments
 - IT Support for Fraud Prevention
 
 ## 03/2017 - 08/2018: Accenture - Security Consultant
-![Accenture](/assets/img/accenture.png#left))
+![Accenture](/assets/img/accenture.png#left)
 - Security Architect focused on technological Innovation of legacy platforms using Microservices
 - Security Consultant focused on Application Security:
 - SAST - Fortify - Custom rules edition
@@ -56,13 +56,13 @@ complex cloud environments
 - Runtime Application Self Protection: Waratek, Contrast Security, Hdiv
 
 ## 01/2015 - 03/2017: IBM - IT Architect (Security)
-![IBM](/assets/img/ibm.png#left))
+![IBM](/assets/img/ibm.png#left)
 - IT Security Architecture in a wide variety of projects including banking, pharma, retail...
 - Federated Identity Architecture Design: oAuth / OpenID Connect
 - Project Managment
 
 ## 07/2014 - 01/2015: Telefónica - IT Specialist - Movilforum
-![Telefonica](/assets/img/telefonica.png#left))
+![Telefonica](/assets/img/telefonica.png#left)
 - Working with the software lab of movilforum as Security Specialist, identifiying potential partners
 among start-ups 
 
