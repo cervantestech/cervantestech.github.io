@@ -23,7 +23,9 @@ In conclusion, I am passionate about my work in cybersecurity and am always eage
 # Career
 
 ## 10/2021 - today: Fintonic - Chief Information Security Officer
-![Fintonic alt <](/assets/img/fintonic.png)
+
+![Fintonic alt <](/assets/img/fintonic.png){.callout}
+
 - Head of cybersecurity including Governance, SecOps and Secure software architectures design for
 complex cloud environments
 - Cyberrisk and Cyber-intellingence management
