@@ -26,7 +26,10 @@ In conclusion, I am passionate about my work in cybersecurity and am always eage
 
 ![Fintonic](/assets/img/fintonic.png#left)
 
+
 <br>
+
+
 
 - Head of cybersecurity including Governance, SecOps and Secure software architectures design for
 complex cloud environments
@@ -38,10 +41,8 @@ complex cloud environments
 ![Repsol](/assets/img/repsol.png#left)
 
 
-
 <br>
 <br>
-
 
 
 - Head of Cybersecurity Hub: ITSecurity Architecture Innovation team
@@ -58,8 +59,6 @@ complex cloud environments
 <br>
 <br>
 <br>
-<br>
-
 
 
 - Public Cloud banking security architecture design (Access, PAM, Third party integrations...) from scratch
@@ -87,7 +86,8 @@ complex cloud environments
 
 ![IBM](/assets/img/ibm.png#left)
 
-<br>
+
+
 <br>
 <br>
 <br>
@@ -102,7 +102,9 @@ complex cloud environments
 
 ![Telefonica](/assets/img/telefonica.png#left)
 
+
 <br>
+
 
 - Working with the software lab of movilforum as Security Specialist, identifiying potential partners
 among start-ups 
