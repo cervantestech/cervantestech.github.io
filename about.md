@@ -5,7 +5,7 @@ title: About
 
 # [Enrique Cervantes BIO](https://www.linkedin.com/in/enriquecervantes/)
 
-![A test image](/assets/img/fotoAbout.png)
+![Enrique Cervantes](/assets/img/fotoAbout.png)
 
 # About
 
