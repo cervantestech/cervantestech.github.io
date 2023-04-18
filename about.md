@@ -16,7 +16,7 @@ On the technical side, I specialize in bringing security to Software Development
 
 In addition to my technical expertise, I possess strong communication and leadership skills, allowing me to effectively communicate cybersecurity issues to C-level executives and developers alike. I am experienced in compliance and management, ensuring that all stakeholders are informed and up-to-date.
 
-I am honored to have been recognized as one of the **TOP50 CISOs to watch in 2023 worldwide** by the cybersecurity company, **Lacework**.
+I am honored to have been recognized as one of the ![**TOP50 CISOs to watch in 2023 worldwide**](https://www.lacework.com/blog/50-cisos-to-watch/) by the cybersecurity company, **Lacework**.
 
 In conclusion, I am passionate about my work in cybersecurity and am always eager to learn and grow in this ever-changing field.
 
@@ -95,7 +95,7 @@ environments.
 # Lecturer & Speaker at
 
 ## Professor / Mentorship:
-- Collaboratoin in creation of new Master Programme about cybersecurity - **Universidad Politécnica Nebrija** (2023)
+- Collaboration in creation of new Master Programme about cybersecurity - **Universidad Politécnica Nebrija** (2023)
 - Lecturer at IT Supply Chain Risk Management course covering "Innovation" topic - **ISMS Forum** (2022 Two editions)
 - Mentor at Cybersecurity bootcamp covering "Cloud Security" - **Upgrade Hub** (2019)
 - Collaboration in Cybersecurity awarness training - **Sagardoy Business School** (2021)
