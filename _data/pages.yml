@@ -1,5 +1,4 @@
 pages:
   - {name: 'CV[ENG]', url: 'about.html'}
   - {name: 'CV[ES]', url: 'about_es.html'}
-  - {name: 'Contact', url: 'contact.html'}
   - {name: 'Archive', url: 'archive.html'}
