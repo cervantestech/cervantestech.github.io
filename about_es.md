@@ -25,7 +25,9 @@ En 2023 he sido sido reconocido como uno de los [**"TOP50 CISOs to Watch"**](htt
 
 ![Fintonic](/assets/img/fintonic.png#left)
 
+
 <br>
+
 
 - Jefe de ciberseguridad, incluyendo gobernanza, SecOps y diseño de arquitecturas de software seguro para entornos de nube complejos
 - Gestión de ciberriesgos y ciberinteligencia
@@ -35,8 +37,10 @@ En 2023 he sido sido reconocido como uno de los [**"TOP50 CISOs to Watch"**](htt
 
 ![Repsol](/assets/img/repsol.png#left)
 
+
 <br>
 <br>
+
 
 - Head of Cybersecurity Hub: Equipo de innovación de arquitectura de TI de seguridad
 - Diseño y validación de arquitectura de TI
@@ -47,10 +51,12 @@ En 2023 he sido sido reconocido como uno de los [**"TOP50 CISOs to Watch"**](htt
 
 ![Orange Bank](/assets/img/ob.png#left)
 
+
 <br>
 <br>
 <br>
 <br>
+
 
 - Diseño de arquitectura de seguridad **desde cero**, basada en Public Cloud (Access, PAM, Third party integrations...)
 - Seguridad en SDLC (Microservices environment) - SAST, DAST, Dependency Analysis
@@ -63,7 +69,9 @@ En 2023 he sido sido reconocido como uno de los [**"TOP50 CISOs to Watch"**](htt
 
 ![Accenture](/assets/img/accenture.png#left)
 
+
 <br>
+
 
 - Seguridad arquitectónica enfocada en la innovación tecnológica de plataformas legacy mediante Microservicios
 - Consultor de seguridad enfocado en la seguridad de aplicaciones:
@@ -75,9 +83,13 @@ En 2023 he sido sido reconocido como uno de los [**"TOP50 CISOs to Watch"**](htt
 
 ![IBM](/assets/img/ibm.png#left)
 
+
 <br>
 <br>
 <br>
+<br>
+<br>
+
 
 - Arquitectura de Seguridad de TI en una amplia variedad de proyectos incluyendo banca, farmacéutica, retail...
 - Diseño de Arquitectura de Identidad Federada: oAuth / OpenID Connect
@@ -87,7 +99,9 @@ En 2023 he sido sido reconocido como uno de los [**"TOP50 CISOs to Watch"**](htt
 
 ![Telefonica](/assets/img/telefonica.png#left)
 
+
 <br>
+
 
 - Laboratorio de software de Movilforum como Especialista en Seguridad, identificando posibles partners estratégicos entre las startups.
 

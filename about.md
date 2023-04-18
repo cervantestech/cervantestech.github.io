@@ -37,8 +37,12 @@ complex cloud environments
 
 ![Repsol](/assets/img/repsol.png#left)
 
+
+
 <br>
 <br>
+
+
 
 - Head of Cybersecurity Hub: ITSecurity Architecture Innovation team
 - IT Architecture design and validation
@@ -49,10 +53,13 @@ complex cloud environments
 
 ![Orange Bank](/assets/img/ob.png#left)
 
+
 <br>
 <br>
 <br>
 <br>
+<br>
+
 
 
 - Public Cloud banking security architecture design (Access, PAM, Third party integrations...) from scratch
@@ -66,7 +73,9 @@ complex cloud environments
 
 ![Accenture](/assets/img/accenture.png#left)
 
+
 <br>
+
 
 - Security Architect focused on technological Innovation of legacy platforms using Microservices
 - Security Consultant focused on Application Security:
@@ -81,6 +90,9 @@ complex cloud environments
 <br>
 <br>
 <br>
+<br>
+<br>
+
 
 - IT Security Architecture in a wide variety of projects including banking, pharma, retail...
 - Federated Identity Architecture Design: oAuth / OpenID Connect
