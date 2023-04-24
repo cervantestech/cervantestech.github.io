@@ -28,7 +28,4 @@ Seguiremos hablando de todo esto.
 
 ¡Buen fin de Semana Santa!
 
-
-
-* hello
 {:toc}
