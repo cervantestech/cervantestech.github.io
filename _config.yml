@@ -1,5 +1,5 @@
 # Site settings
-title: Enrique Cervantes' Personal Website
+title: Enrique Cervantes
 description: "Bio, blogposts, and some cybersecurity stuff"
 url:  "https://www.cervantes.pro" # Actual base url of the website
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"

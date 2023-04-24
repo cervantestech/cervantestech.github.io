@@ -7,5 +7,5 @@ social:
   - {icon: 'twitter', type: "brand", link: 'https://twitter.com/kizerv'}
   - {icon: 'linkedin', type: "brand", link: 'https://www.linkedin.com/in/enriquecervantes/'}
   
-  - {icon: 'envelope', type: "solid", link: 'mailto:info@cervantes.pro'}
+  - {icon: 'envelope', type: "solid", link: 'mailto:enrique@cervantes.pro'}
   - {icon: 'rss', type: "solid", link: "/feed.xml"}

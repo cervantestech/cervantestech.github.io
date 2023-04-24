@@ -1,5 +1,5 @@
 pages:
   - {name: 'Blog', url: 'index.html'}
-  - {name: 'CV[ENG]', url: 'about.html'}
-  - {name: 'CV[ES]', url: 'about_es.html'}
+  - {name: 'About Me[ENG]', url: 'about.html'}
+  - {name: 'Sobre Mí[ES]', url: 'about_es.html'}
   - {name: 'Archive', url: 'archive.html'}
