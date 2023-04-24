@@ -29,6 +29,7 @@ En 2023 he sido sido reconocido como uno de los [**"TOP50 CISOs to Watch"**](htt
 <br>
 
 
+
 - Jefe de ciberseguridad, incluyendo gobernanza, SecOps y diseño de arquitecturas de software seguro para entornos de nube complejos
 - Gestión de ciberriesgos y ciberinteligencia
 - Certificación de PCI-DSS
@@ -83,8 +84,6 @@ En 2023 he sido sido reconocido como uno de los [**"TOP50 CISOs to Watch"**](htt
 
 ![IBM](/assets/img/ibm.png#left)
 
-
-<br>
 <br>
 <br>
 <br>
