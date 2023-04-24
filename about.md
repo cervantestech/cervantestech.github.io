@@ -88,6 +88,7 @@ complex cloud environments
 
 <br>
 <br>
+<br>
 
 
 - IT Security Architecture in a wide variety of projects including banking, pharma, retail...
